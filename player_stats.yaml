@@ -1,0 +1,16 @@
+- name: health
+  display_name: Health
+  value: 100
+  max_value: 100
+- name: attack
+  display_name: Attack
+  value: 10
+- name: defense
+  display_name: Defense
+  value: 5
+- name: agility
+  display_name: Agility
+  value: 5
+- name: luck
+  display_name: Luck
+  value: 1

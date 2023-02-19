@@ -1,0 +1,26 @@
+- name: slime
+  display_name: Slime
+  stats:
+    health: 20
+    attack: 5
+    defense: 2
+    agility: 5
+    luck: 1
+  drop_table:
+    - item: potion
+      drop_chance: 0.5
+- name: goblin
+  display_name: Goblin
+  stats:
+    health: 40
+    attack: 10
+    defense: 5
+    agility: 10
+    luck: 2
+  drop_table:
+    - item: sword
+      drop_chance: 0.2
+    - item: shield
+      drop_chance: 0.2
+    - item: potion
+      drop_chance: 0.5

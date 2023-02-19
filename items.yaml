@@ -1,0 +1,10 @@
+- name: health
+  display_name: Health
+- name: attack
+  display_name: Attack
+- name: defense
+  display_name: Defense
+- name: agility
+  display_name: Agility
+- name: luck
+  display_name: Luck
